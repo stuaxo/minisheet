@@ -1,0 +1,1 @@
+A nice way of accessing spreadsheet (or any grid based data), inspired by the Django ORM.
